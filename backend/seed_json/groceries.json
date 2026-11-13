@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "g1",
+    "name": "Fresh Tomatoes",
+    "description": "Farm-fresh red tomatoes, rich in lycopene and vitamins.",
+    "price": 29,
+    "originalPrice": 39,
+    "discount": 26,
+    "rating": 4.3,
+    "reviewCount": 1240,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Vegetables",
+    "inStock": true,
+    "unit": "500g",
+    "brand": "Fresh Farm",
+    "tags": [
+      "vegetarian",
+      "organic",
+      "fresh"
+    ]
+  },
+  {
+    "id": "g2",
+    "name": "Red Onions",
+    "description": "Hand-picked Indian red onions, essential for every kitchen.",
+    "price": 35,
+    "originalPrice": 49,
+    "discount": 29,
+    "rating": 4.1,
+    "reviewCount": 980,
+    "image": "https://images.unsplash.com/photo-1618512496226-ede21a99c9d9?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Vegetables",
+    "inStock": true,
+    "unit": "1kg",
+    "brand": "Fresh Farm",
+    "tags": [
+      "vegetarian",
+      "staple"
+    ]
+  },
+  {
+    "id": "g3",
+    "name": "Potatoes",
+    "description": "Premium quality potatoes, great for curries and fries.",
+    "price": 25,
+    "originalPrice": 35,
+    "discount": 29,
+    "rating": 4.2,
+    "reviewCount": 760,
+    "image": "https://images.unsplash.com/photo-1518977676545-816d4a3a0e4c?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Vegetables",
+    "inStock": true,
+    "unit": "1kg",
+    "brand": "Fresh Farm",
+    "tags": [
+      "vegetarian",
+      "staple"
+    ]
+  },
+  {
+    "id": "g4",
+    "name": "Bananas (Dozen)",
+    "description": "Sweet and ripe Robusta bananas, energy-packed.",
+    "price": 49,
+    "originalPrice": 59,
+    "discount": 17,
+    "rating": 4.5,
+    "reviewCount": 1500,
+    "image": "https://images.unsplash.com/photo-1571771894821-ce9b6c11b08e?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Fruits",
+    "inStock": true,
+    "unit": "12 pcs",
+    "brand": "Fresh Farm",
+    "tags": [
+      "fruit",
+      "healthy"
+    ]
+  },
+  {
+    "id": "g5",
+    "name": "Shimla Apples",
+    "description": "Crisp, juicy Himachali apples packed with antioxidants.",
+    "price": 149,
+    "originalPrice": 189,
+    "discount": 21,
+    "rating": 4.6,
+    "reviewCount": 870,
+    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Fruits",
+    "inStock": true,
+    "unit": "500g",
+    "brand": "Himachal Fresh",
+    "tags": [
+      "fruit",
+      "imported"
+    ]
+  },
+  {
+    "id": "g6",
+    "name": "Baby Spinach",
+    "description": "Tender baby spinach leaves, washed and ready to eat.",
+    "price": 39,
+    "originalPrice": 49,
+    "discount": 20,
+    "rating": 4.4,
+    "reviewCount": 420,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Vegetables",
+    "inStock": true,
+    "unit": "250g",
+    "brand": "Go Green",
+    "tags": [
+      "vegetarian",
+      "organic",
+      "healthy"
+    ]
+  },
+  {
+    "id": "g7",
+    "name": "Green Capsicum",
+    "description": "Fresh green capsicum, crunchy and nutritious.",
+    "price": 45,
+    "originalPrice": 59,
+    "discount": 24,
+    "rating": 4.2,
+    "reviewCount": 310,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Vegetables",
+    "inStock": true,
+    "unit": "250g",
+    "brand": "Fresh Farm",
+    "tags": [
+      "vegetarian",
+      "fresh"
+    ]
+  },
+  {
+    "id": "g8",
+    "name": "Carrots",
+    "description": "Crunchy orange carrots, perfect for salads and cooking.",
+    "price": 35,
+    "originalPrice": 45,
+    "discount": 22,
+    "rating": 4.3,
+    "reviewCount": 540,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Vegetables",
+    "inStock": true,
+    "unit": "500g",
+    "brand": "Fresh Farm",
+    "tags": [
+      "vegetarian",
+      "healthy"
+    ]
+  },
+  {
+    "id": "g9",
+    "name": "Cucumber",
+    "description": "Fresh cucumbers, hydrating and great in salads.",
+    "price": 29,
+    "originalPrice": 39,
+    "discount": 26,
+    "rating": 4,
+    "reviewCount": 290,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Vegetables",
+    "inStock": true,
+    "unit": "500g",
+    "brand": "Fresh Farm",
+    "tags": [
+      "vegetarian",
+      "fresh"
+    ]
+  },
+  {
+    "id": "g10",
+    "name": "Broccoli",
+    "description": "Fresh broccoli florets, supercharged with vitamins.",
+    "price": 79,
+    "originalPrice": 99,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 380,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Vegetables",
+    "inStock": true,
+    "unit": "500g",
+    "brand": "Go Green",
+    "tags": [
+      "vegetarian",
+      "organic",
+      "healthy"
+    ]
+  },
+  {
+    "id": "g11",
+    "name": "Amul Butter",
+    "description": "India's favourite butter — creamy, fresh and delicious.",
+    "price": 55,
+    "originalPrice": 60,
+    "discount": 8,
+    "rating": 4.8,
+    "reviewCount": 3200,
+    "image": "https://images.unsplash.com/photo-1550583724-aa683cf69fd8?w=400&q=80",
+    "category": "Dairy & Bakery",
+    "subcategory": "Butter & Cheese",
+    "inStock": true,
+    "unit": "100g",
+    "brand": "Amul",
+    "tags": [
+      "dairy",
+      "breakfast"
+    ]
+  },
+  {
+    "id": "g12",
+    "name": "Amul Toned Milk",
+    "description": "Fresh toned milk, 3% fat, pasteurised and homogenised.",
+    "price": 28,
+    "originalPrice": 28,
+    "discount": 0,
+    "rating": 4.5,
+    "reviewCount": 2100,
+    "image": "https://images.unsplash.com/photo-1550583724-aa683cf69fd8?w=400&q=80",
+    "category": "Dairy & Bakery",
+    "subcategory": "Milk",
+    "inStock": true,
+    "unit": "1L",
+    "brand": "Amul",
+    "tags": [
+      "dairy",
+      "daily"
+    ]
+  },
+  {
+    "id": "g13",
+    "name": "Nandini Curd",
+    "description": "Thick, creamy curd from Karnataka's favourite dairy.",
+    "price": 45,
+    "originalPrice": 50,
+    "discount": 10,
+    "rating": 4.6,
+    "reviewCount": 870,
+    "image": "https://images.unsplash.com/photo-1550583724-aa683cf69fd8?w=400&q=80",
+    "category": "Dairy & Bakery",
+    "subcategory": "Curd & Yogurt",
+    "inStock": true,
+    "unit": "500g",
+    "brand": "Nandini",
+    "tags": [
+      "dairy",
+      "probiotic"
+    ]
+  },
+  {
+    "id": "g14",
+    "name": "Britannia Bread",
+    "description": "100% whole wheat sandwich bread, stays fresh longer.",
+    "price": 42,
+    "originalPrice": 45,
+    "discount": 7,
+    "rating": 4.4,
+    "reviewCount": 1340,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&q=80",
+    "category": "Dairy & Bakery",
+    "subcategory": "Bread",
+    "inStock": true,
+    "unit": "400g",
+    "brand": "Britannia",
+    "tags": [
+      "bakery",
+      "breakfast"
+    ]
+  },
+  {
+    "id": "g15",
+    "name": "Amul Cheese Slices",
+    "description": "Processed cheese slices, perfect for sandwiches and burgers.",
+    "price": 99,
+    "originalPrice": 115,
+    "discount": 14,
+    "rating": 4.5,
+    "reviewCount": 920,
+    "image": "https://images.unsplash.com/photo-1550583724-aa683cf69fd8?w=400&q=80",
+    "category": "Dairy & Bakery",
+    "subcategory": "Butter & Cheese",
+    "inStock": true,
+    "unit": "10 slices",
+    "brand": "Amul",
+    "tags": [
+      "dairy",
+      "cheese"
+    ]
+  },
+  {
+    "id": "g16",
+    "name": "Fresh Eggs (12 pack)",
+    "description": "Farm-fresh white eggs, protein-rich and nutritious.",
+    "price": 89,
+    "originalPrice": 99,
+    "discount": 10,
+    "rating": 4.6,
+    "reviewCount": 1780,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Dairy & Bakery",
+    "subcategory": "Eggs",
+    "inStock": true,
+    "unit": "12 pcs",
+    "brand": "Country Eggs",
+    "tags": [
+      "protein",
+      "breakfast",
+      "non-veg"
+    ]
+  },
+  {
+    "id": "g17",
+    "name": "Fresh Paneer",
+    "description": "Soft, crumbly homemade-style paneer, fresh daily.",
+    "price": 89,
+    "originalPrice": 99,
+    "discount": 10,
+    "rating": 4.7,
+    "reviewCount": 1420,
+    "image": "https://images.unsplash.com/photo-1550583724-aa683cf69fd8?w=400&q=80",
+    "category": "Dairy & Bakery",
+    "subcategory": "Paneer & Tofu",
+    "inStock": true,
+    "unit": "200g",
+    "brand": "Amul",
+    "tags": [
+      "dairy",
+      "vegetarian",
+      "protein"
+    ]
+  },
+  {
+    "id": "g18",
+    "name": "Lay's Classic Salted",
+    "description": "Crispy potato chips with the perfect amount of salt.",
+    "price": 20,
+    "originalPrice": 20,
+    "discount": 0,
+    "rating": 4.4,
+    "reviewCount": 2890,
+    "image": "https://images.unsplash.com/photo-1613919113640-25732ec5e61f?w=400&q=80",
+    "category": "Snacks & Beverages",
+    "subcategory": "Chips",
+    "inStock": true,
+    "unit": "52g",
+    "brand": "Lay's",
+    "tags": [
+      "snack",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "g19",
+    "name": "Haldiram Aloo Bhujia",
+    "description": "Classic spicy aloo bhujia namkeen from Haldiram.",
+    "price": 60,
+    "originalPrice": 70,
+    "discount": 14,
+    "rating": 4.6,
+    "reviewCount": 2140,
+    "image": "https://images.unsplash.com/photo-1613919113640-25732ec5e61f?w=400&q=80",
+    "category": "Snacks & Beverages",
+    "subcategory": "Namkeen",
+    "inStock": true,
+    "unit": "400g",
+    "brand": "Haldiram",
+    "tags": [
+      "snack",
+      "namkeen",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "g20",
+    "name": "Kurkure Masala Munch",
+    "description": "Tangy and crunchy corn puffs, the ultimate party snack.",
+    "price": 20,
+    "originalPrice": 20,
+    "discount": 0,
+    "rating": 4.3,
+    "reviewCount": 1930,
+    "image": "https://images.unsplash.com/photo-1613919113640-25732ec5e61f?w=400&q=80",
+    "category": "Snacks & Beverages",
+    "subcategory": "Chips",
+    "inStock": true,
+    "unit": "65g",
+    "brand": "Kurkure",
+    "tags": [
+      "snack",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "g21",
+    "name": "Thums Up",
+    "description": "India's favourite cola with a strong, fizzy kick.",
+    "price": 99,
+    "originalPrice": 110,
+    "discount": 10,
+    "rating": 4.5,
+    "reviewCount": 1670,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Snacks & Beverages",
+    "subcategory": "Cold Drinks",
+    "inStock": true,
+    "unit": "2L",
+    "brand": "Thums Up",
+    "tags": [
+      "beverage",
+      "cold drink"
+    ]
+  },
+  {
+    "id": "g22",
+    "name": "Tropicana Orange",
+    "description": "100% pure squeezed orange juice, no added sugar.",
+    "price": 99,
+    "originalPrice": 115,
+    "discount": 13,
+    "rating": 4.4,
+    "reviewCount": 980,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Snacks & Beverages",
+    "subcategory": "Juices",
+    "inStock": true,
+    "unit": "1L",
+    "brand": "Tropicana",
+    "tags": [
+      "beverage",
+      "juice",
+      "healthy"
+    ]
+  },
+  {
+    "id": "g23",
+    "name": "Red Bull Energy Drink",
+    "description": "Gives you wings — your go-to energy booster.",
+    "price": 125,
+    "originalPrice": 135,
+    "discount": 7,
+    "rating": 4.5,
+    "reviewCount": 1120,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Snacks & Beverages",
+    "subcategory": "Energy Drinks",
+    "inStock": true,
+    "unit": "250ml",
+    "brand": "Red Bull",
+    "tags": [
+      "beverage",
+      "energy"
+    ]
+  },
+  {
+    "id": "g24",
+    "name": "Bisleri Mineral Water",
+    "description": "Pure and safe packaged drinking water.",
+    "price": 20,
+    "originalPrice": 20,
+    "discount": 0,
+    "rating": 4.5,
+    "reviewCount": 2340,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Snacks & Beverages",
+    "subcategory": "Water",
+    "inStock": true,
+    "unit": "1L",
+    "brand": "Bisleri",
+    "tags": [
+      "beverage",
+      "water"
+    ]
+  },
+  {
+    "id": "g25",
+    "name": "Aashirvaad Whole Wheat Atta",
+    "description": "Stone-ground whole wheat atta for soft, fluffy rotis.",
+    "price": 299,
+    "originalPrice": 335,
+    "discount": 11,
+    "rating": 4.7,
+    "reviewCount": 3120,
+    "image": "https://images.unsplash.com/photo-1536304929831-ee1ca9d44906?w=400&q=80",
+    "category": "Rice, Pulses & Grains",
+    "subcategory": "Atta & Flours",
+    "inStock": true,
+    "unit": "5kg",
+    "brand": "Aashirvaad",
+    "tags": [
+      "staple",
+      "vegetarian",
+      "wheat"
+    ]
+  },
+  {
+    "id": "g26",
+    "name": "India Gate Classic Basmati Rice",
+    "description": "Long-grain aged basmati rice with natural aroma.",
+    "price": 349,
+    "originalPrice": 399,
+    "discount": 13,
+    "rating": 4.8,
+    "reviewCount": 2890,
+    "image": "https://images.unsplash.com/photo-1536304929831-ee1ca9d44906?w=400&q=80",
+    "category": "Rice, Pulses & Grains",
+    "subcategory": "Rice",
+    "inStock": true,
+    "unit": "5kg",
+    "brand": "India Gate",
+    "tags": [
+      "staple",
+      "basmati",
+      "premium"
+    ]
+  },
+  {
+    "id": "g27",
+    "name": "Toor Dal (Arhar)",
+    "description": "Premium quality split pigeon peas, protein-rich.",
+    "price": 149,
+    "originalPrice": 169,
+    "discount": 12,
+    "rating": 4.5,
+    "reviewCount": 1240,
+    "image": "https://images.unsplash.com/photo-1536304929831-ee1ca9d44906?w=400&q=80",
+    "category": "Rice, Pulses & Grains",
+    "subcategory": "Dals & Pulses",
+    "inStock": true,
+    "unit": "1kg",
+    "brand": "Tata Sampann",
+    "tags": [
+      "dal",
+      "protein",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "g28",
+    "name": "Chana Dal",
+    "description": "Split Bengal gram dal, heart-healthy and delicious.",
+    "price": 119,
+    "originalPrice": 139,
+    "discount": 14,
+    "rating": 4.4,
+    "reviewCount": 870,
+    "image": "https://images.unsplash.com/photo-1536304929831-ee1ca9d44906?w=400&q=80",
+    "category": "Rice, Pulses & Grains",
+    "subcategory": "Dals & Pulses",
+    "inStock": true,
+    "unit": "1kg",
+    "brand": "Tata Sampann",
+    "tags": [
+      "dal",
+      "protein",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "g29",
+    "name": "Rajma (Kidney Beans)",
+    "description": "Dark red kidney beans, perfect for Punjabi rajma chawal.",
+    "price": 89,
+    "originalPrice": 99,
+    "discount": 10,
+    "rating": 4.6,
+    "reviewCount": 710,
+    "image": "https://images.unsplash.com/photo-1536304929831-ee1ca9d44906?w=400&q=80",
+    "category": "Rice, Pulses & Grains",
+    "subcategory": "Dals & Pulses",
+    "inStock": true,
+    "unit": "500g",
+    "brand": "Tata Sampann",
+    "tags": [
+      "pulse",
+      "protein",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "g30",
+    "name": "Dove Beauty Bar",
+    "description": "Moisturising soap bar with ¼ moisturising cream.",
+    "price": 55,
+    "originalPrice": 60,
+    "discount": 8,
+    "rating": 4.6,
+    "reviewCount": 2140,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Personal Care",
+    "subcategory": "Soaps & Body Wash",
+    "inStock": true,
+    "unit": "100g × 3",
+    "brand": "Dove",
+    "tags": [
+      "personal care",
+      "beauty"
+    ]
+  },
+  {
+    "id": "g31",
+    "name": "Colgate Strong Teeth Toothpaste",
+    "description": "India's #1 toothpaste for strong teeth and fresh breath.",
+    "price": 99,
+    "originalPrice": 110,
+    "discount": 10,
+    "rating": 4.5,
+    "reviewCount": 3450,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Personal Care",
+    "subcategory": "Oral Care",
+    "inStock": true,
+    "unit": "300g",
+    "brand": "Colgate",
+    "tags": [
+      "oral care",
+      "daily"
+    ]
+  },
+  {
+    "id": "g32",
+    "name": "Pantene Pro-V Shampoo",
+    "description": "Silky smooth shampoo for strong and shiny hair.",
+    "price": 199,
+    "originalPrice": 230,
+    "discount": 13,
+    "rating": 4.4,
+    "reviewCount": 1680,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Personal Care",
+    "subcategory": "Hair Care",
+    "inStock": true,
+    "unit": "340ml",
+    "brand": "Pantene",
+    "tags": [
+      "hair care",
+      "personal care"
+    ]
+  },
+  {
+    "id": "g33",
+    "name": "Dettol Liquid Handwash",
+    "description": "Kills 99.9% germs, keeps hands clean and safe.",
+    "price": 109,
+    "originalPrice": 125,
+    "discount": 13,
+    "rating": 4.7,
+    "reviewCount": 2890,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Personal Care",
+    "subcategory": "Hand Wash",
+    "inStock": true,
+    "unit": "500ml",
+    "brand": "Dettol",
+    "tags": [
+      "hygiene",
+      "personal care"
+    ]
+  },
+  {
+    "id": "g34",
+    "name": "Whisper Ultra Pads",
+    "description": "Ultra-thin pads with leakage protection for active days.",
+    "price": 149,
+    "originalPrice": 165,
+    "discount": 10,
+    "rating": 4.5,
+    "reviewCount": 1340,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Personal Care",
+    "subcategory": "Feminine Care",
+    "inStock": true,
+    "unit": "30 pads",
+    "brand": "Whisper",
+    "tags": [
+      "personal care",
+      "feminine"
+    ]
+  },
+  {
+    "id": "g35",
+    "name": "McCain French Fries",
+    "description": "Golden crispy french fries, oven or air-fry ready.",
+    "price": 179,
+    "originalPrice": 199,
+    "discount": 10,
+    "rating": 4.5,
+    "reviewCount": 1120,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Frozen Foods",
+    "subcategory": "Frozen Snacks",
+    "inStock": true,
+    "unit": "400g",
+    "brand": "McCain",
+    "tags": [
+      "frozen",
+      "vegetarian",
+      "snack"
+    ]
+  },
+  {
+    "id": "g36",
+    "name": "Haldiram Frozen Paneer Tikka",
+    "description": "Restaurant-style paneer tikka, ready in minutes.",
+    "price": 249,
+    "originalPrice": 279,
+    "discount": 11,
+    "rating": 4.4,
+    "reviewCount": 870,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Frozen Foods",
+    "subcategory": "Frozen Snacks",
+    "inStock": true,
+    "unit": "250g",
+    "brand": "Haldiram",
+    "tags": [
+      "frozen",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "g37",
+    "name": "ITC Master Chef Veg Nuggets",
+    "description": "Crispy vegetable nuggets, perfect party starter.",
+    "price": 199,
+    "originalPrice": 220,
+    "discount": 10,
+    "rating": 4.3,
+    "reviewCount": 640,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Frozen Foods",
+    "subcategory": "Frozen Snacks",
+    "inStock": true,
+    "unit": "300g",
+    "brand": "ITC Master Chef",
+    "tags": [
+      "frozen",
+      "vegetarian",
+      "snack"
+    ]
+  },
+  {
+    "id": "g38",
+    "name": "Amul Vanilla Ice Cream",
+    "description": "Classic creamy vanilla ice cream — a timeless treat.",
+    "price": 149,
+    "originalPrice": 165,
+    "discount": 10,
+    "rating": 4.6,
+    "reviewCount": 1980,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Frozen Foods",
+    "subcategory": "Ice Cream",
+    "inStock": true,
+    "unit": "500ml",
+    "brand": "Amul",
+    "tags": [
+      "frozen",
+      "dessert",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "g39",
+    "name": "Kellogg's Corn Flakes",
+    "description": "Iron-fortified corn flakes for a nutritious morning start.",
+    "price": 199,
+    "originalPrice": 225,
+    "discount": 12,
+    "rating": 4.4,
+    "reviewCount": 2140,
+    "image": "https://images.unsplash.com/photo-1545996124-0501ebafa105?w=400&q=80",
+    "category": "Breakfast Items",
+    "subcategory": "Cereals",
+    "inStock": true,
+    "unit": "875g",
+    "brand": "Kellogg's",
+    "tags": [
+      "breakfast",
+      "cereal",
+      "healthy"
+    ]
+  },
+  {
+    "id": "g40",
+    "name": "Quaker Rolled Oats",
+    "description": "Hearty rolled oats — high in fibre, keeps you full.",
+    "price": 189,
+    "originalPrice": 210,
+    "discount": 10,
+    "rating": 4.6,
+    "reviewCount": 1680,
+    "image": "https://images.unsplash.com/photo-1545996124-0501ebafa105?w=400&q=80",
+    "category": "Breakfast Items",
+    "subcategory": "Oats",
+    "inStock": true,
+    "unit": "1kg",
+    "brand": "Quaker",
+    "tags": [
+      "breakfast",
+      "oats",
+      "healthy"
+    ]
+  },
+  {
+    "id": "g41",
+    "name": "MTR Upma Mix",
+    "description": "Ready-to-cook upma mix, authentic Karnataka taste.",
+    "price": 75,
+    "originalPrice": 85,
+    "discount": 12,
+    "rating": 4.3,
+    "reviewCount": 760,
+    "image": "https://images.unsplash.com/photo-1545996124-0501ebafa105?w=400&q=80",
+    "category": "Breakfast Items",
+    "subcategory": "Ready Mixes",
+    "inStock": true,
+    "unit": "500g",
+    "brand": "MTR",
+    "tags": [
+      "breakfast",
+      "ready mix",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "g42",
+    "name": "Nestlé Milo",
+    "description": "Malt-based chocolate drink powder for active kids.",
+    "price": 275,
+    "originalPrice": 310,
+    "discount": 11,
+    "rating": 4.4,
+    "reviewCount": 1340,
+    "image": "https://images.unsplash.com/photo-1545996124-0501ebafa105?w=400&q=80",
+    "category": "Breakfast Items",
+    "subcategory": "Health Drinks",
+    "inStock": true,
+    "unit": "400g",
+    "brand": "Nestlé",
+    "tags": [
+      "breakfast",
+      "health drink"
+    ]
+  },
+  {
+    "id": "g43",
+    "name": "Horlicks",
+    "description": "Scientifically proven nutrition for a taller, stronger, sharper you.",
+    "price": 299,
+    "originalPrice": 335,
+    "discount": 11,
+    "rating": 4.5,
+    "reviewCount": 2100,
+    "image": "https://images.unsplash.com/photo-1545996124-0501ebafa105?w=400&q=80",
+    "category": "Breakfast Items",
+    "subcategory": "Health Drinks",
+    "inStock": true,
+    "unit": "500g",
+    "brand": "Horlicks",
+    "tags": [
+      "breakfast",
+      "health drink",
+      "children"
+    ]
+  },
+  {
+    "id": "g44",
+    "name": "Kissan Mixed Fruit Jam",
+    "description": "Fruity and delicious jam made from real fruit pieces.",
+    "price": 109,
+    "originalPrice": 120,
+    "discount": 9,
+    "rating": 4.3,
+    "reviewCount": 980,
+    "image": "https://images.unsplash.com/photo-1545996124-0501ebafa105?w=400&q=80",
+    "category": "Breakfast Items",
+    "subcategory": "Jams & Spreads",
+    "inStock": true,
+    "unit": "500g",
+    "brand": "Kissan",
+    "tags": [
+      "breakfast",
+      "spread"
+    ]
+  },
+  {
+    "id": "g45",
+    "name": "Britannia Marie Gold Biscuits",
+    "description": "Light, crunchy biscuits for your morning chai.",
+    "price": 35,
+    "originalPrice": 40,
+    "discount": 13,
+    "rating": 4.4,
+    "reviewCount": 2340,
+    "image": "https://images.unsplash.com/photo-1545996124-0501ebafa105?w=400&q=80",
+    "category": "Breakfast Items",
+    "subcategory": "Biscuits",
+    "inStock": true,
+    "unit": "250g",
+    "brand": "Britannia",
+    "tags": [
+      "breakfast",
+      "biscuits",
+      "tea-time"
+    ]
+  },
+  {
+    "id": "g46",
+    "name": "Green Grapes",
+    "description": "Seedless green grapes, sweet and refreshing.",
+    "price": 99,
+    "originalPrice": 119,
+    "discount": 17,
+    "rating": 4.5,
+    "reviewCount": 670,
+    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Fruits",
+    "inStock": true,
+    "unit": "500g",
+    "brand": "Fresh Farm",
+    "tags": [
+      "fruit",
+      "fresh"
+    ]
+  },
+  {
+    "id": "g47",
+    "name": "Fresh Lemon",
+    "description": "Juicy Kagzi lemons, rich in Vitamin C.",
+    "price": 29,
+    "originalPrice": 39,
+    "discount": 26,
+    "rating": 4.2,
+    "reviewCount": 450,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Fruits",
+    "inStock": true,
+    "unit": "250g (5-6 pcs)",
+    "brand": "Fresh Farm",
+    "tags": [
+      "fruit",
+      "citrus"
+    ]
+  },
+  {
+    "id": "g48",
+    "name": "Fresh Ginger",
+    "description": "Spicy, aromatic ginger root for cooking and tea.",
+    "price": 29,
+    "originalPrice": 39,
+    "discount": 26,
+    "rating": 4.3,
+    "reviewCount": 390,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Vegetables",
+    "inStock": true,
+    "unit": "100g",
+    "brand": "Fresh Farm",
+    "tags": [
+      "spice",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "g49",
+    "name": "Fresh Garlic",
+    "description": "Premium quality garlic with pungent aroma and taste.",
+    "price": 39,
+    "originalPrice": 49,
+    "discount": 20,
+    "rating": 4.3,
+    "reviewCount": 520,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Vegetables",
+    "inStock": true,
+    "unit": "100g",
+    "brand": "Fresh Farm",
+    "tags": [
+      "spice",
+      "vegetarian"
+    ]
+  },
+  {
+    "id": "g50",
+    "name": "Sweet Corn",
+    "description": "Fresh sweet corn on the cob, perfect for roasting or boiling.",
+    "price": 25,
+    "originalPrice": 29,
+    "discount": 14,
+    "rating": 4.4,
+    "reviewCount": 340,
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&q=80",
+    "category": "Fruits & Vegetables",
+    "subcategory": "Vegetables",
+    "inStock": true,
+    "unit": "2 cobs",
+    "brand": "Fresh Farm",
+    "tags": [
+      "vegetarian",
+      "healthy"
+    ]
+  }
+]

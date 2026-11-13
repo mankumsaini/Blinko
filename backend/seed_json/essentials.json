@@ -1,0 +1,612 @@
+[
+  {
+    "id": "e1",
+    "name": "Vim Dishwash Liquid",
+    "description": "Powerful grease-cutting formula for sparkling clean dishes.",
+    "price": 99,
+    "originalPrice": 115,
+    "discount": 14,
+    "rating": 4.5,
+    "reviewCount": 2340,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Cleaning Supplies",
+    "subcategory": "Dish Wash",
+    "inStock": true,
+    "unit": "500ml",
+    "brand": "Vim",
+    "tags": [
+      "cleaning",
+      "kitchen"
+    ]
+  },
+  {
+    "id": "e2",
+    "name": "Colin Glass Cleaner",
+    "description": "Streak-free shine on glass, mirrors, and surfaces.",
+    "price": 149,
+    "originalPrice": 165,
+    "discount": 10,
+    "rating": 4.4,
+    "reviewCount": 1120,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Cleaning Supplies",
+    "subcategory": "Surface Cleaners",
+    "inStock": true,
+    "unit": "500ml Spray",
+    "brand": "Colin",
+    "tags": [
+      "cleaning",
+      "glass"
+    ]
+  },
+  {
+    "id": "e3",
+    "name": "Harpic Toilet Cleaner",
+    "description": "10x cleaning power — eliminates germs and tough stains.",
+    "price": 99,
+    "originalPrice": 115,
+    "discount": 14,
+    "rating": 4.6,
+    "reviewCount": 1890,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Cleaning Supplies",
+    "subcategory": "Toilet Cleaners",
+    "inStock": true,
+    "unit": "500ml",
+    "brand": "Harpic",
+    "tags": [
+      "cleaning",
+      "toilet",
+      "hygiene"
+    ]
+  },
+  {
+    "id": "e4",
+    "name": "Domex Multi-Surface Disinfectant",
+    "description": "Kills 99.9% of germs on floors and surfaces.",
+    "price": 199,
+    "originalPrice": 225,
+    "discount": 12,
+    "rating": 4.4,
+    "reviewCount": 870,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Cleaning Supplies",
+    "subcategory": "Floor Cleaners",
+    "inStock": true,
+    "unit": "1L",
+    "brand": "Domex",
+    "tags": [
+      "cleaning",
+      "disinfectant",
+      "floor"
+    ]
+  },
+  {
+    "id": "e5",
+    "name": "Lizol Floor Cleaner",
+    "description": "Lavender-scented floor cleaner for a fresh home.",
+    "price": 179,
+    "originalPrice": 199,
+    "discount": 10,
+    "rating": 4.5,
+    "reviewCount": 1240,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Cleaning Supplies",
+    "subcategory": "Floor Cleaners",
+    "inStock": true,
+    "unit": "1L",
+    "brand": "Lizol",
+    "tags": [
+      "cleaning",
+      "floor"
+    ]
+  },
+  {
+    "id": "e6",
+    "name": "Surf Excel Matic Liquid",
+    "description": "Premium liquid detergent for front-load washing machines.",
+    "price": 299,
+    "originalPrice": 345,
+    "discount": 13,
+    "rating": 4.6,
+    "reviewCount": 2110,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Cleaning Supplies",
+    "subcategory": "Laundry",
+    "inStock": true,
+    "unit": "1.5L",
+    "brand": "Surf Excel",
+    "tags": [
+      "cleaning",
+      "laundry"
+    ]
+  },
+  {
+    "id": "e7",
+    "name": "Tupperware Classic Lunch Box",
+    "description": "BPA-free, leak-proof lunch box with 3 compartments.",
+    "price": 599,
+    "originalPrice": 749,
+    "discount": 20,
+    "rating": 4.7,
+    "reviewCount": 980,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Kitchen Essentials",
+    "subcategory": "Storage",
+    "inStock": true,
+    "unit": "1 set",
+    "brand": "Tupperware",
+    "tags": [
+      "kitchen",
+      "storage",
+      "BPA-free"
+    ]
+  },
+  {
+    "id": "e8",
+    "name": "Prestige Pressure Cooker",
+    "description": "3L aluminium pressure cooker with gasket & whistle.",
+    "price": 1299,
+    "originalPrice": 1599,
+    "discount": 19,
+    "rating": 4.6,
+    "reviewCount": 1540,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Kitchen Essentials",
+    "subcategory": "Cookware",
+    "inStock": true,
+    "unit": "3L",
+    "brand": "Prestige",
+    "tags": [
+      "kitchen",
+      "cookware"
+    ]
+  },
+  {
+    "id": "e9",
+    "name": "Milton Thermosteel Flask",
+    "description": "Double-walled stainless steel flask keeps drinks hot/cold 24hr.",
+    "price": 699,
+    "originalPrice": 899,
+    "discount": 22,
+    "rating": 4.8,
+    "reviewCount": 2340,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Kitchen Essentials",
+    "subcategory": "Flasks & Bottles",
+    "inStock": true,
+    "unit": "500ml",
+    "brand": "Milton",
+    "tags": [
+      "kitchen",
+      "flask",
+      "stainless steel"
+    ]
+  },
+  {
+    "id": "e10",
+    "name": "Borosil Glass Water Bottle",
+    "description": "Borosilicate glass bottle, eco-friendly and chemical-free.",
+    "price": 499,
+    "originalPrice": 599,
+    "discount": 17,
+    "rating": 4.6,
+    "reviewCount": 870,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Kitchen Essentials",
+    "subcategory": "Flasks & Bottles",
+    "inStock": true,
+    "unit": "750ml",
+    "brand": "Borosil",
+    "tags": [
+      "kitchen",
+      "eco-friendly"
+    ]
+  },
+  {
+    "id": "e11",
+    "name": "Aluminium Foil Roll",
+    "description": "Heavy-duty foil for cooking, baking and food storage.",
+    "price": 149,
+    "originalPrice": 165,
+    "discount": 10,
+    "rating": 4.3,
+    "reviewCount": 540,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Kitchen Essentials",
+    "subcategory": "Kitchen Accessories",
+    "inStock": true,
+    "unit": "11m roll",
+    "brand": "Hindalco",
+    "tags": [
+      "kitchen",
+      "baking"
+    ]
+  },
+  {
+    "id": "e12",
+    "name": "Non-Stick Tawa",
+    "description": "28cm non-stick tawa with granite coating for healthy cooking.",
+    "price": 999,
+    "originalPrice": 1299,
+    "discount": 23,
+    "rating": 4.5,
+    "reviewCount": 1120,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Kitchen Essentials",
+    "subcategory": "Cookware",
+    "inStock": true,
+    "unit": "28cm",
+    "brand": "Prestige",
+    "tags": [
+      "kitchen",
+      "cookware",
+      "non-stick"
+    ]
+  },
+  {
+    "id": "e13",
+    "name": "Plastic Storage Box (Set of 3)",
+    "description": "Stackable storage boxes for organised closets.",
+    "price": 349,
+    "originalPrice": 449,
+    "discount": 22,
+    "rating": 4.3,
+    "reviewCount": 760,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Home Organization",
+    "subcategory": "Storage",
+    "inStock": true,
+    "unit": "Set of 3",
+    "brand": "Cello",
+    "tags": [
+      "home",
+      "storage",
+      "organizer"
+    ]
+  },
+  {
+    "id": "e14",
+    "name": "Velvet Hanger Set",
+    "description": "Slim non-slip velvet hangers — space-saving and gentle.",
+    "price": 299,
+    "originalPrice": 399,
+    "discount": 25,
+    "rating": 4.5,
+    "reviewCount": 1340,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Home Organization",
+    "subcategory": "Storage",
+    "inStock": true,
+    "unit": "30 pcs",
+    "brand": "Polset",
+    "tags": [
+      "home",
+      "wardrobe"
+    ]
+  },
+  {
+    "id": "e15",
+    "name": "Shoe Rack (3-Tier)",
+    "description": "Durable metal shoe rack, holds 12 pairs, easy assembly.",
+    "price": 799,
+    "originalPrice": 999,
+    "discount": 20,
+    "rating": 4.4,
+    "reviewCount": 870,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Home Organization",
+    "subcategory": "Furniture",
+    "inStock": true,
+    "unit": "3-tier",
+    "brand": "Peng Essentials",
+    "tags": [
+      "home",
+      "shoe rack"
+    ]
+  },
+  {
+    "id": "e16",
+    "name": "Anti-Moth Sachets (Pack of 10)",
+    "description": "Lavender-scented sachets to protect clothes from moths.",
+    "price": 199,
+    "originalPrice": 249,
+    "discount": 20,
+    "rating": 4.3,
+    "reviewCount": 450,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Home Organization",
+    "subcategory": "Home Care",
+    "inStock": true,
+    "unit": "Pack of 10",
+    "brand": "Naphthalene Balls",
+    "tags": [
+      "home",
+      "wardrobe",
+      "fragrance"
+    ]
+  },
+  {
+    "id": "e17",
+    "name": "Gillette Mach3 Razor",
+    "description": "Triple-blade precision razor for a close, comfortable shave.",
+    "price": 299,
+    "originalPrice": 349,
+    "discount": 14,
+    "rating": 4.7,
+    "reviewCount": 1680,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Personal Hygiene",
+    "subcategory": "Shaving",
+    "inStock": true,
+    "unit": "1 razor + 1 cartridge",
+    "brand": "Gillette",
+    "tags": [
+      "shaving",
+      "personal care"
+    ]
+  },
+  {
+    "id": "e18",
+    "name": "Stayfree Secure XL Pads",
+    "description": "Wide-body pads with 5-layer protection for heavy flow.",
+    "price": 149,
+    "originalPrice": 165,
+    "discount": 10,
+    "rating": 4.5,
+    "reviewCount": 1120,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Personal Hygiene",
+    "subcategory": "Feminine Care",
+    "inStock": true,
+    "unit": "30 pads",
+    "brand": "Stayfree",
+    "tags": [
+      "feminine",
+      "hygiene"
+    ]
+  },
+  {
+    "id": "e19",
+    "name": "Dettol Antiseptic Liquid",
+    "description": "Protects from germs for first aid and personal hygiene.",
+    "price": 199,
+    "originalPrice": 225,
+    "discount": 11,
+    "rating": 4.7,
+    "reviewCount": 2140,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Personal Hygiene",
+    "subcategory": "First Aid",
+    "inStock": true,
+    "unit": "250ml",
+    "brand": "Dettol",
+    "tags": [
+      "hygiene",
+      "first aid"
+    ]
+  },
+  {
+    "id": "e20",
+    "name": "Band-Aid Adhesive Bandages",
+    "description": "Flexible adhesive bandages for minor cuts and scrapes.",
+    "price": 89,
+    "originalPrice": 99,
+    "discount": 10,
+    "rating": 4.4,
+    "reviewCount": 870,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Personal Hygiene",
+    "subcategory": "First Aid",
+    "inStock": true,
+    "unit": "30 strips",
+    "brand": "Band-Aid",
+    "tags": [
+      "first aid",
+      "hygiene"
+    ]
+  },
+  {
+    "id": "e21",
+    "name": "Classmate Notebook (200 Pages)",
+    "description": "Ruled notebook with thick cover and FSC certified paper.",
+    "price": 75,
+    "originalPrice": 85,
+    "discount": 12,
+    "rating": 4.4,
+    "reviewCount": 980,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Stationery",
+    "subcategory": "Notebooks",
+    "inStock": true,
+    "unit": "200 pages",
+    "brand": "Classmate",
+    "tags": [
+      "stationery",
+      "school"
+    ]
+  },
+  {
+    "id": "e22",
+    "name": "Reynolds 045 Ballpoint Pens",
+    "description": "Smooth writing pens with consistent ink flow.",
+    "price": 49,
+    "originalPrice": 55,
+    "discount": 11,
+    "rating": 4.5,
+    "reviewCount": 1340,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Stationery",
+    "subcategory": "Pens",
+    "inStock": true,
+    "unit": "Pack of 10",
+    "brand": "Reynolds",
+    "tags": [
+      "stationery",
+      "pen"
+    ]
+  },
+  {
+    "id": "e23",
+    "name": "Fevicol MR White Adhesive",
+    "description": "India's favourite water-resistant white adhesive.",
+    "price": 59,
+    "originalPrice": 65,
+    "discount": 9,
+    "rating": 4.6,
+    "reviewCount": 870,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Stationery",
+    "subcategory": "Adhesives",
+    "inStock": true,
+    "unit": "250g",
+    "brand": "Fevicol",
+    "tags": [
+      "stationery",
+      "craft"
+    ]
+  },
+  {
+    "id": "e24",
+    "name": "Scotch Tape (Pack of 3)",
+    "description": "Clear adhesive tape for everyday office and home use.",
+    "price": 99,
+    "originalPrice": 115,
+    "discount": 14,
+    "rating": 4.3,
+    "reviewCount": 540,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Stationery",
+    "subcategory": "Tapes",
+    "inStock": true,
+    "unit": "Pack of 3",
+    "brand": "Scotch",
+    "tags": [
+      "stationery",
+      "office"
+    ]
+  },
+  {
+    "id": "e25",
+    "name": "Philips LED Bulb 9W",
+    "description": "Energy-saving LED bulb, 800 lumens, warm white light.",
+    "price": 99,
+    "originalPrice": 115,
+    "discount": 14,
+    "rating": 4.6,
+    "reviewCount": 2890,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Home Utilities",
+    "subcategory": "Lighting",
+    "inStock": true,
+    "unit": "9W, E27 base",
+    "brand": "Philips",
+    "tags": [
+      "home",
+      "lighting",
+      "energy saving"
+    ]
+  },
+  {
+    "id": "e26",
+    "name": "Extension Cord (4 Sockets)",
+    "description": "4-socket extension cord with master switch, 3m wire.",
+    "price": 349,
+    "originalPrice": 449,
+    "discount": 22,
+    "rating": 4.5,
+    "reviewCount": 1540,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Home Utilities",
+    "subcategory": "Electrical",
+    "inStock": true,
+    "unit": "4 sockets, 3m",
+    "brand": "Havells",
+    "tags": [
+      "home",
+      "electrical"
+    ]
+  },
+  {
+    "id": "e27",
+    "name": "Cotton Bath Doormat",
+    "description": "Soft, absorbent anti-skid doormat for bathroom or entrance.",
+    "price": 299,
+    "originalPrice": 399,
+    "discount": 25,
+    "rating": 4.4,
+    "reviewCount": 870,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Home Utilities",
+    "subcategory": "Mats & Rugs",
+    "inStock": true,
+    "unit": "40×60 cm",
+    "brand": "Story@Home",
+    "tags": [
+      "home",
+      "bathroom"
+    ]
+  },
+  {
+    "id": "e28",
+    "name": "Black & Decker Power Strip",
+    "description": "Surge-protected power strip with 6 outlets and USB ports.",
+    "price": 799,
+    "originalPrice": 999,
+    "discount": 20,
+    "rating": 4.5,
+    "reviewCount": 980,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Home Utilities",
+    "subcategory": "Electrical",
+    "inStock": true,
+    "unit": "6 outlets + 2 USB",
+    "brand": "Black & Decker",
+    "tags": [
+      "home",
+      "electrical",
+      "surge protection"
+    ]
+  },
+  {
+    "id": "e29",
+    "name": "Steel Ironing Board",
+    "description": "Foldable ironing board with heat-resistant mesh top.",
+    "price": 1299,
+    "originalPrice": 1699,
+    "discount": 24,
+    "rating": 4.3,
+    "reviewCount": 540,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Home Utilities",
+    "subcategory": "Laundry",
+    "inStock": true,
+    "unit": "122×38 cm",
+    "brand": "Brabantia",
+    "tags": [
+      "home",
+      "laundry"
+    ]
+  },
+  {
+    "id": "e30",
+    "name": "Bathroom Dustbin with Lid",
+    "description": "Space-saving bathroom pedal bin with auto-closing lid.",
+    "price": 399,
+    "originalPrice": 499,
+    "discount": 20,
+    "rating": 4.4,
+    "reviewCount": 760,
+    "image": "https://images.unsplash.com/photo-1542838132-92c53300491e?w=400&q=80",
+    "category": "Home Utilities",
+    "subcategory": "Bins & Waste",
+    "inStock": true,
+    "unit": "8L",
+    "brand": "Cello",
+    "tags": [
+      "home",
+      "bathroom",
+      "waste"
+    ]
+  }
+]

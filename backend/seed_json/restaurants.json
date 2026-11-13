@@ -1,0 +1,315 @@
+[
+  {
+    "id": "r1",
+    "name": "Punjabi Dhaba Co.",
+    "cuisine": "North Indian",
+    "rating": 4.6,
+    "reviewCount": 2340,
+    "deliveryTime": "25-30 min",
+    "deliveryFee": 29,
+    "minOrder": 199,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80",
+    "promoted": false,
+    "address": "14, MG Road, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Butter Chicken",
+      "Dal Makhani",
+      "Naan",
+      "North Indian"
+    ],
+    "description": "Authentic Punjabi flavours cooked in a tandoor, just like back home."
+  },
+  {
+    "id": "r2",
+    "name": "Spice Garden",
+    "cuisine": "South Indian",
+    "rating": 4.4,
+    "reviewCount": 1870,
+    "deliveryTime": "20-25 min",
+    "deliveryFee": 0,
+    "minOrder": 149,
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80",
+    "promoted": false,
+    "address": "8, Jayanagar 4th Block, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Dosa",
+      "Idli",
+      "Sambar",
+      "South Indian"
+    ],
+    "description": "Traditional South Indian breakfast and meals, freshly prepared."
+  },
+  {
+    "id": "r3",
+    "name": "Wok Express",
+    "cuisine": "Chinese",
+    "rating": 4.3,
+    "reviewCount": 1120,
+    "deliveryTime": "30-35 min",
+    "deliveryFee": 39,
+    "minOrder": 249,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80",
+    "promoted": false,
+    "address": "22, Koramangala 5th Block, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Noodles",
+      "Fried Rice",
+      "Manchurian",
+      "Chinese"
+    ],
+    "description": "Indo-Chinese wok dishes tossed fresh to order."
+  },
+  {
+    "id": "r4",
+    "name": "Pizza Paradise",
+    "cuisine": "Pizza",
+    "rating": 4.7,
+    "reviewCount": 3200,
+    "deliveryTime": "35-40 min",
+    "deliveryFee": 0,
+    "minOrder": 299,
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80",
+    "promoted": true,
+    "address": "56, Indiranagar 100ft Road, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Pizza",
+      "Pasta",
+      "Italian",
+      "Promoted"
+    ],
+    "description": "Hand-tossed wood-fired pizzas with fresh toppings."
+  },
+  {
+    "id": "r5",
+    "name": "Burger Barn",
+    "cuisine": "Burgers",
+    "rating": 4.5,
+    "reviewCount": 2100,
+    "deliveryTime": "20-25 min",
+    "deliveryFee": 29,
+    "minOrder": 199,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80",
+    "promoted": false,
+    "address": "33, HSR Layout, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Burgers",
+      "Fries",
+      "Shakes",
+      "Fast Food"
+    ],
+    "description": "Juicy flame-grilled burgers with fresh lettuce and special sauces."
+  },
+  {
+    "id": "r6",
+    "name": "Dessert Street",
+    "cuisine": "Desserts",
+    "rating": 4.8,
+    "reviewCount": 1680,
+    "deliveryTime": "25-30 min",
+    "deliveryFee": 19,
+    "minOrder": 99,
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80",
+    "promoted": false,
+    "address": "7, Cunningham Road, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Cakes",
+      "Ice Cream",
+      "Waffles",
+      "Desserts"
+    ],
+    "description": "Sweet treats and desserts that make every occasion special."
+  },
+  {
+    "id": "r7",
+    "name": "Biryani Blues",
+    "cuisine": "North Indian",
+    "rating": 4.6,
+    "reviewCount": 2890,
+    "deliveryTime": "30-35 min",
+    "deliveryFee": 0,
+    "minOrder": 299,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80",
+    "promoted": true,
+    "address": "45, Frazer Town, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Biryani",
+      "Kebab",
+      "North Indian",
+      "Promoted"
+    ],
+    "description": "Dum-cooked biryanis in classic Hyderabadi and Lucknowi styles."
+  },
+  {
+    "id": "r8",
+    "name": "Dosa Delight",
+    "cuisine": "South Indian",
+    "rating": 4.3,
+    "reviewCount": 980,
+    "deliveryTime": "20-25 min",
+    "deliveryFee": 19,
+    "minOrder": 149,
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80",
+    "promoted": false,
+    "address": "12, Basavanagudi, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Dosa",
+      "Uttapam",
+      "South Indian"
+    ],
+    "description": "Crispy dosas and hearty South Indian fare, made fresh."
+  },
+  {
+    "id": "r9",
+    "name": "The Noodle Bar",
+    "cuisine": "Chinese",
+    "rating": 4.2,
+    "reviewCount": 760,
+    "deliveryTime": "25-30 min",
+    "deliveryFee": 39,
+    "minOrder": 199,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80",
+    "promoted": false,
+    "address": "28, Commercial Street, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Noodles",
+      "Dim Sum",
+      "Chinese",
+      "Pan-Asian"
+    ],
+    "description": "Authentic Asian noodle dishes and dim sum platters."
+  },
+  {
+    "id": "r10",
+    "name": "Mumbai Street Bites",
+    "cuisine": "Fast Food",
+    "rating": 4.5,
+    "reviewCount": 1540,
+    "deliveryTime": "15-20 min",
+    "deliveryFee": 19,
+    "minOrder": 149,
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80",
+    "promoted": false,
+    "address": "3, Shivajinagar, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Vada Pav",
+      "Pav Bhaji",
+      "Chaat",
+      "Street Food"
+    ],
+    "description": "Street food favourites from Mumbai — chaats, vada pav and more."
+  },
+  {
+    "id": "r11",
+    "name": "The Cake Factory",
+    "cuisine": "Desserts",
+    "rating": 4.9,
+    "reviewCount": 2140,
+    "deliveryTime": "35-40 min",
+    "deliveryFee": 29,
+    "minOrder": 199,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80",
+    "promoted": true,
+    "address": "19, Richmond Road, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Cakes",
+      "Pastries",
+      "Cookies",
+      "Promoted"
+    ],
+    "description": "Artisan cakes, pastries and baked goods for every celebration."
+  },
+  {
+    "id": "r12",
+    "name": "Royal Curry House",
+    "cuisine": "North Indian",
+    "rating": 4.4,
+    "reviewCount": 1340,
+    "deliveryTime": "30-35 min",
+    "deliveryFee": 0,
+    "minOrder": 299,
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80",
+    "promoted": false,
+    "address": "67, Sadashivanagar, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Curry",
+      "Roti",
+      "Kebab",
+      "North Indian"
+    ],
+    "description": "Royal Mughlai curries and tandoor-grilled kebabs."
+  },
+  {
+    "id": "r13",
+    "name": "Meenakshi South Kitchen",
+    "cuisine": "South Indian",
+    "rating": 4.6,
+    "reviewCount": 1120,
+    "deliveryTime": "25-30 min",
+    "deliveryFee": 19,
+    "minOrder": 199,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80",
+    "promoted": false,
+    "address": "5, T Nagar, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Thali",
+      "Rasam",
+      "Pongal",
+      "South Indian"
+    ],
+    "description": "Full South Indian thalis and traditional Tamil Nadu recipes."
+  },
+  {
+    "id": "r14",
+    "name": "Dragon Palace",
+    "cuisine": "Chinese",
+    "rating": 4.1,
+    "reviewCount": 640,
+    "deliveryTime": "30-40 min",
+    "deliveryFee": 49,
+    "minOrder": 299,
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=400&q=80",
+    "promoted": false,
+    "address": "11, Whitefield, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Chinese",
+      "Schezwan",
+      "Dim Sum"
+    ],
+    "description": "Bold Chinese flavours with a Sichuan twist."
+  },
+  {
+    "id": "r15",
+    "name": "Wraps & Rolls",
+    "cuisine": "Fast Food",
+    "rating": 4.3,
+    "reviewCount": 870,
+    "deliveryTime": "15-20 min",
+    "deliveryFee": 19,
+    "minOrder": 149,
+    "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=400&q=80",
+    "promoted": false,
+    "address": "24, Electronic City, Bangalore",
+    "isOpen": true,
+    "tags": [
+      "Wraps",
+      "Rolls",
+      "Kathi Roll",
+      "Fast Food"
+    ],
+    "description": "Freshly grilled kathi rolls and wraps packed with flavour."
+  }
+]

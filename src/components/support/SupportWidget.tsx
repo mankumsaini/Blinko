@@ -269,6 +269,14 @@ export default function SupportWidget() {
                 >
                   Save & Return to Support Chat
                 </button>
+
+                <a
+                  href="/supportroot-tests"
+                  onClick={() => setIsOpen(false)}
+                  className="w-full block text-center py-2 bg-gray-900 hover:bg-black text-white font-bold rounded-lg text-xs transition-colors"
+                >
+                  Open AI Test Lab (30 Test Cases) ↗
+                </a>
               </div>
             </div>
           ) : widgetUrl ? (

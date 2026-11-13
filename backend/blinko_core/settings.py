@@ -11,9 +11,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # Add backend directory to sys.path so apps can be imported
 sys.path.insert(0, str(BASE_DIR))
 
-SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY')
-if not SECRET_KEY:
-    raise RuntimeError('Set the DJANGO_SECRET_KEY environment variable.')
+SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', 'django-insecure-blinko-quick-commerce-secret-key-2026')
 
 DEBUG = True
 

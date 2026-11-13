@@ -18,6 +18,7 @@ import OrderTrackingPage from './pages/OrderTrackingPage';
 import AccountPage from './pages/AccountPage';
 import HelpCenterPage from './pages/HelpCenterPage';
 import AdminDashboardPage from './pages/AdminDashboardPage';
+import SupportRootTestLabPage from './pages/SupportRootTestLabPage';
 
 import AboutPage from './pages/company/AboutPage';
 import HowItWorksPage from './pages/company/HowItWorksPage';
@@ -49,6 +50,7 @@ export default function App() {
                   <Route path="/account" element={<AccountPage />} />
                   <Route path="/help" element={<HelpCenterPage />} />
                   <Route path="/admin" element={<AdminDashboardPage />} />
+                  <Route path="/supportroot-tests" element={<SupportRootTestLabPage />} />
 
                   {/* Company & Policy Pages */}
                   <Route path="/about" element={<AboutPage />} />

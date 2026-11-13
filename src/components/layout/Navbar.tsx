@@ -69,7 +69,11 @@ export default function Navbar() {
                 <HelpCircle className="w-3 h-3" /> 24/7 Help & Support
               </Link>
               <span>•</span>
-              <Link to="/admin" className="text-orange-400 hover:text-orange-300 font-semibold flex items-center gap-1">
+              <Link to="/supportroot-tests" className="text-orange-400 hover:text-orange-300 font-bold flex items-center gap-1 bg-orange-500/10 px-2 py-0.5 rounded-full border border-orange-500/30">
+                <Sparkles className="w-3 h-3 text-[#FF6B00]" /> AI Test Lab (30 Test Cases)
+              </Link>
+              <span>•</span>
+              <Link to="/admin" className="text-gray-300 hover:text-white font-medium flex items-center gap-1">
                 <Shield className="w-3 h-3" /> Admin Portal
               </Link>
             </div>

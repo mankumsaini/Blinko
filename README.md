@@ -81,6 +81,7 @@ Open your browser and navigate to: **[http://localhost:5174/](http://localhost:5
 | `/account` | **Customer Account** | Profile details, saved addresses, order history, and refund claims |
 | `/help` | **Help Center** | 8 categories with 32+ searchable FAQs and support ticket generator |
 | `/admin` | **Admin Dashboard** | Historical analytics (2021–2026), revenue metrics, charts, and live order status management |
+| `/supportroot-tests` | **SupportRoot AI Test Lab** | Interactive QA test bench with 30 evaluation scenarios (tracking, refunds, cancellations, security) |
 | `/about` | **About Blinko** | Corporate vision and fictional 2021–2026 milestone history |
 | `/how-it-works` | **How It Works** | 90-second dark store packing and electric EV fleet delivery mechanics |
 | `/careers` | **Careers** | Open job opportunities with application modal |
